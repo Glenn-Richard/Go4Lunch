@@ -75,4 +75,8 @@
     <string name="cancel_txt">Cancel</string>
     <string name="delete_txt">Delete</string>
     <string name="logo_go4lunch">logo go4lunch</string>
+    <string name="connection_succeed">Connexion réussie</string>
+    <string name="error_authentication_canceled">Connexion annulée</string>
+    <string name="error_no_internet">Erreur de réseau</string>
+    <string name="error_unknown_error">"Erreur inconnue "</string>
 </resources>
